@@ -1,5 +1,4 @@
 # Aviation Analytics: Exploring Relationships Between Aircraft, Flights, and Passenger Data
-## Project Description: Data Analysis of Airline Operations
 ![alt text](https://github.com/Slndora/Aviation-Analytics/blob/e2257d8c35777af4c141e5773c149a35a0222f46/254381.webp)
 ## Objective
 The primary objective of this project is to analyze various aspects of airline operations using the provided relational database. This analysis aims to uncover insights regarding aircraft performance, flight schedules, passenger bookings, and revenue generation.
